@@ -35,7 +35,7 @@ margin: 5% 20%;
 
 .img-circle:hover
 {
-  position: relative;
+position: relative;
 transform: scale(1.5);
 border-radius: 0px;
 top: 50px;
@@ -72,6 +72,18 @@ h2.name
   font-size: 30px;
   text-align: center;
   color: white;
+}
+
+a
+{
+  text-decoration: none;
+  color:black;
+}
+
+a:hover
+{
+  font-size: 16px;
+  text-decoration:underline;
 }
 
 ul.left-text
